@@ -1,1 +1,2 @@
-quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
+prom/prometheus:v2.0.0
+prom/node-exporter:latest
